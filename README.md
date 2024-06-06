@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Shruti. 
+<h2>👋 Hi, I’m Shruti. </h2>
+
 - 👀 I’m interested in: machine learning as it relates to scientfic research as well as ethical decision making. 
 - 🌱 I’m currently learning about: data governance and master data management 
 - 💞️ I’m looking to: collaborate on just about anything! 
