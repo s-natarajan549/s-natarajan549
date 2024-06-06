@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @s-natarajan549
-- 👀 I’m interested in using data to develop climate change research. 
-- 🌱 I’m currently learning about climate change in the media, as well as how climate change is impacted by human beliefs/values.
-- 💞️ I’m looking to collaborate on any projects that can grow my programming and data analysis experience.
+- 👋 Hi, I’m Shruti. 
+- 👀 I’m interested in: machine learning as it relates to scientfic research as well as ethical decision making. 
+- 🌱 I’m currently learning about: data governance and master data management! 
+- 💞️ I’m looking to: collaborate on just about anything! 
 - 📫 Email: snatarajan549@berkeley.edu 
 
 <!---
